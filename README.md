@@ -1,6 +1,12 @@
 # Volunteer Event Management App
 
-Aplikasi Flutter untuk manajemen event volunteer dengan fitur lengkap.
+   Flutter app untuk manajemen event volunteer dengan fitur:
+   - Login/Register user
+   - Buat dan kelola event
+   - Sistem kehadiran volunteer
+   - Generate sertifikat
+   - Laporan event
+   - Dashboard admin
 
 ## Fitur Utama
 - �� Sistem autentikasi (Login/Register)
@@ -14,9 +20,6 @@ Aplikasi Flutter untuk manajemen event volunteer dengan fitur lengkap.
 - Flutter
 - Firebase (Authentication, Firestore)
 - Cloud Functions
-
-## Screenshots
-[Tambahkan screenshot aplikasi di sini]
 
 ## Installation
 1. Clone repository
